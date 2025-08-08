@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Sou estudante de tecnologia<br>📚 Atualmente, estou estudando Arquitetura e Organização de Computadores<br>🎯 Objetivos: Conseguir minha primeira oportunidade na área e me consolidar no mercado; aperfeiçoar meus conhecimentos e competências; Aprender novas tecnologias.<br>💼 Conheça minhas experiências profissionais: www.linkedin.com/in/cleber-lucas-gonçalves-melo-047105251 </p>
+<p align="left">✨ Sou estudante de tecnologia<br>📚 Atualmente, estou estudando Arquitetura e Organização de Computadores<br>🎯 Objetivos: Conseguir minha primeira oportunidade na área e me consolidar no mercado; aperfeiçoar meus conhecimentos e competências;<br>💼 Conheça minhas experiências profissionais: www.linkedin.com/in/cleber-lucas-gonçalves-melo-047105251 </p>
 
 ###
 
